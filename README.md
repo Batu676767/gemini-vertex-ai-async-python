@@ -1,7 +1,7 @@
 
-# Gemini Content Generator
+# Gemini Content Generator Asynchronous 
 
-Gemini Content Generator is a production-ready Python application that leverages Vertex AI's Gemini model to generate content from text prompts and images. It supports both base64 encoded images and image URLs, making it flexible for various use cases such as image analysis, description generation, and more.
+Gemini Content Generator is a production-ready Python application that leverages Vertex AI's Gemini model to generate content from text prompts and images. It supports both base64 encoded images and image URLs, making it flexible for various use cases such as image analysis, description generation but asynchronous.
 
 ---
 
