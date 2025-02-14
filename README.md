@@ -138,13 +138,5 @@ Please make sure your code adheres to the existing style and includes relevant t
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-## Contact
 
-For any questions or feedback, please open an issue in the repository or contact [Your Name](mailto:your.email@example.com).
-
----
-
-Happy coding!
-```
