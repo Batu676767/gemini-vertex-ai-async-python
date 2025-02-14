@@ -11,11 +11,7 @@ async def main():
     """
     # Load base64 string from data file
     image_url_with_file_ending = "https://techtutorialsx.com/wp-content/uploads/2019/01/esp32-arduino-core-base64-encode-string.png"
-    image_url_without_fileending = (
-        "https://images.asos-media.com/products/"
-        "asos-design-satin-asymmetric-neck-side-bust-maxi-dress-in-burgundy/"
-        "208085726-2?$n_640w$&wid=634&fit=constrain"
-    )
+    image_url_without_fileending = "https://images.asos-media.com/products/asos-design-satin-asymmetric-neck-side-bust-maxi-dress-in-burgundy/208085726-2?$n_640w$&wid=634&fit=constrain"
     base64_string = "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="
 
     tasks = [
