@@ -55,7 +55,7 @@ Follow these steps to set up the project on your local machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gemini-content-generator.git
+   git clone https://github.com/Batu676767/gemini-content-generator.git
    cd gemini-content-generator
    ```
 
@@ -76,9 +76,9 @@ Follow these steps to set up the project on your local machine.
 
    The project uses Vertex AI for content generation. Make sure you have the appropriate credentials set up. You can override default configurations by setting these environment variables:
 
-   - `VERTEX_AI_PROJECT` (default: `savvy-pad-417021`)
-   - `VERTEX_AI_LOCATION` (default: `europe-west4`)
-   - `VERTEX_AI_MODEL` (default: `gemini-1.5-flash-002`)
+   - `VERTEX_AI_PROJECT` 
+   - `VERTEX_AI_LOCATION` 
+   - `VERTEX_AI_MODEL`
 
    For example, on Unix-based systems you can set an environment variable like so:
 
@@ -118,21 +118,6 @@ python -m unittest discover tests
 
 This will discover and run all test cases to ensure that utilities and core functions are working as expected.
 
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a new Pull Request.
-
-Please make sure your code adheres to the existing style and includes relevant tests.
-
----
 
 ## License
 
